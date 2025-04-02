@@ -50,10 +50,10 @@ This assignment will help you practice:
 
 ### Part 1: Update this README.md
 Replace the "Part 1" section with:
-- A brief introduction about yourself (first name only)
-- What you're hoping to get out of this course
-- Topics you would like to see included
-- A musical recommendation and a link to something about it (song, album, artist)
+- Hello! My name is Belinda, and I'm part of the Health Data Science MS program. I graduated from UC Berkeley last May (wow, it's been almost a year) with my BS in Chemical Biology and a minor in data science. Some of my research interests include medical devices, digital health, and computer vision. I'm working with a lab at UC Berkeley on developing improved ECG/EGG sensors for at-home monitoring as well as the Kornblith Lab at UCSF on feature extraction from clinical notes using LLMs.
+- I'm hoping to gain more familiarity with data science tools (as well as refresh my Python). I feel very intimidated looking at job listings, for example, and seeing all the different tools that they hope for us to have experience with: cloud computing, version control, AWS, etc. 
+- Following up on the previous point, I'd like if each lecture was a deeper dive into these tools, in a manner similar to "The Missing Semester" course from MIT. In particular, tools that would be useful for pursuing a career in biotech, bioscience data analysis, or genomics would be very helpful!
+- I've been enjoying this [song](https://www.youtube.com/watch?v=dQw4w9WgXcQ) recently!
 
 ### Part 2: Complete the email_hasher.py Script
 The email_hasher.py script should:
